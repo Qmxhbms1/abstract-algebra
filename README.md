@@ -1,2 +1,2 @@
 # abstract-algebra
-My solutions to exercises in Dummit and Foote's "Abstract Algebra" 
+My solutions to exercises in Lang's "Algebra"
